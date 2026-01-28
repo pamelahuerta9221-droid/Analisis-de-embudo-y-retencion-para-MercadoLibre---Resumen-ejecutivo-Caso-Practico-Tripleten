@@ -1,6 +1,11 @@
 # Analisis-de-embudo-y-retencion-para-MercadoLibre---Resumen-ejecutivo-Caso-Practico-Tripleten
 Informe ejecutivo (C → F → I)  Preparación de un Informe ejecutivo con formato C → F → I contestando a cada una de las preguntas del Negocio. Contexto: proceso y periodo. Hallazgos: Señalización de los cohortes con las mejores y peores retenciones. Implicaciones: Acciones concretas (p. ej. optimizar onboarding, notificaciones o recompensas)
 
+📸
+![conversion](screenshots/conversion.png)
+![retencion](screenshots/retencion.png)
+
+
 ## 💡En el caso se presentaron las siguientes implicaciones:
  	
 *Se debe realizar un análisis tanto de los elementos gráficos disponibles para el usuario, así como el procedimiento que debe seguir el mismo desde la etapa de selección de producto hasta la etapa de agregar el producto al carrito. La mayor caída se presenta en dicha etapa debido a que el usuario podría encontrar poco atractivo o díficil, el continuar con la compra. Se recomienda que dicha estrategia se canalice al área de Marketing.
